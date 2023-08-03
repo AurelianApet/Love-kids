@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "618002397039",
+    "firebase_url": "https://snapchat-4d7ed.firebaseio.com",
+    "project_id": "snapchat-4d7ed",
+    "storage_bucket": "snapchat-4d7ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618002397039:android:e8e5427a835f9fb0",
+        "android_client_info": {
+          "package_name": "com.Zooka.cameraFunny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618002397039-capanaub28n65q98tktlq6b749pcbdrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgr1xqfvYGpr40IdneHFEpPGmXFmLcuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
